@@ -1,11 +1,7 @@
 OVERVIEW
 ================
 
-Ubi Displays Beta
-John Hardy
-john@highwire-dtc.com
-HighWire Programme, Lancaster University
-22-11-2012
+interactive whiteboard
 
 QUICK GUIDE
 ================
